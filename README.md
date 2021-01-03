@@ -1,4 +1,4 @@
-## Welcome to My Website
+## Main Page
 
 This site is currently under Construction, please check back later.
 
